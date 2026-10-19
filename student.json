@@ -1,0 +1,22 @@
+{
+    "name": "Ram Charan Pala",
+    "dob": "28-12-2004",
+    "addresses": [
+        {
+            "type": "perm",
+            "street": "Pala Vari Veedi",
+            "pinno": "534245",
+            "doorno": "2-108",
+            "city": "Bvrm"
+        },
+        {
+             "type": "perm",
+            "street": "Pala Vari Veedi",
+            "pinno": "534245",
+            "doorno": "2-108",
+            "city": "Bvrm"
+        }
+    ],
+    "skills": ["linux","shell scripting","ansible"],
+    "languages": ["telugu","english"]
+}

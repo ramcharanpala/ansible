@@ -1,0 +1,26 @@
+<!--object-->
+<Student>
+    <Name>Ram Charan Teja</Name>
+    <DOB>28-12-2004</DOB>
+    <Age>22</Age>
+    <!--list of objects -->
+    <Addresses>
+        <!--object-->
+        <Address type="PREM">
+            <DoorNo>2-108</DoorNo>
+            <Street>Pala Vari Veedi</Street>
+            <PIN>534245</PIN>
+        </Address>
+        <Address type="Current">
+            <DoorNo>2-108</DoorNo>
+            <Street>Pala Vari Veedi</Street>
+            <PIN>534245</PIN>
+        </Address>
+    </Addresses>
+    <Skills>
+        <Skill>Linux</Skill>
+        <Skill>Shell Scripting</Skill>
+        <Skill>Ansible</Skill>
+    </Skills>
+</Student>
+    

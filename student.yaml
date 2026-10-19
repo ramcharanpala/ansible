@@ -1,0 +1,19 @@
+- name: "Ram Charan Pala"
+  dob: "28-12-2004"
+  age: "22"
+  addresses:
+   #object
+  - doorNo: "2-108"
+    street: "pala vari veedi"
+    city: "bvrm"
+    type: "perm"
+    pin: "534245"
+  - doorNo: "2-108"
+    street: "pala vari veedi"
+    city: "bvrm"
+    type: "current"
+    pin: "534245"
+  skills:
+  - linux
+  - shell scripting
+  - ansible
