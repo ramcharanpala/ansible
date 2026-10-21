@@ -4,9 +4,9 @@
   vars:
     COURSE: devops with aws
     DURATION: 10HRS
-    TRAINER: sivakumar
+    TRAINER: siva kumar
   tasks:
-  - name: print the course info 
+  - name: print the course info
     vars:
       COURSE: ansible
     ansible.builtin.debug:
