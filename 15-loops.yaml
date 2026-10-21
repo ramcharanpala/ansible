@@ -5,7 +5,7 @@
   - name: print names
     ansible.builtin.debug:
       msg: "hello {{ item }}" #item is reseved
-    loops:
+    loop:
     - ramesh
     - suresh
     - rakesh
