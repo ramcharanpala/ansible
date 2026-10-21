@@ -5,5 +5,5 @@
   tasks:
   - name: print names
     ansible.builtin.package:
-      name: python
+      name: python3
       state: latest
