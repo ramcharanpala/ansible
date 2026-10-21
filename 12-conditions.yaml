@@ -5,6 +5,6 @@
     number: 12
   tasks:
   - name: check the number is less than 10 or not 
-    ansible.bultin.debug:
+    ansible.builtin.debug:
       msg: "given number {{ number }} is less tham 10"
     when: number < 10
